@@ -1,0 +1,5 @@
+# .prettierrc or .prettierrc.yaml
+trailingComma: 'es5'
+tabWidth: 4 #espacio de la tabulacion
+semi: true #punto y coma
+singleQuote: true #comillas simples
